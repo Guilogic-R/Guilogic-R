@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b13f300c-79a6-414f-bc57-cc61f989ec2a" alt="Meu GIF" width="1000" height="300"/>
+  <img src="https://github.com/user-attachments/assets/f1c46b98-013a-45ec-8c3a-7ca982d4ce58" alt="Meu GIF" width="1000" height="300"/>
 </p>
 
 Seja bem-vindo(a)! Me chamo Guilherme Ribeiro, tenho 22 anos e estou cursando o segundo período de Análise e Desenvolvimento de Sistemas na Anhanguera. Amo filosofia, matemática e lógica, então seria impossível não ter me apaixonado pela área de dados. Aqui é onde compartilho meus projetos, mas também tenho o canal [Guilogic-R](www.youtube.com/@Guilogic) no YouTube, onde apresento, interajo e mostro o background desses projetos, e o perfil [@guilogic](https://www.instagram.com/guilogic) no Instagram, onde registro e compartilho com meus amigos o que venho estudando.
